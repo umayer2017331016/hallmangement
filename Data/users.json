@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "6402df7bb80eac66f54f267d"
+  },
+  "username": "Provost",
+  "firstName": "Dr. Mohammed Abu Sayed",
+  "lastName": "Arfin Khan",
+  "mobileNumber": "01917174537",
+  "email": "khan-for@sust.edu",
+  "hashedPassword": "$2b$10$Eu2jQ7WnpcaD8exsg6cwaOnCjEzP/vCj5cVL2wc2vYToJAJSjN64m",
+  "role": "Admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677909883190"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640330d58f3e080c1623c783"
+  },
+  "username": "2017331053",
+  "firstName": "ratul",
+  "lastName": "khan ",
+  "mobileNumber": "01777678912",
+  "email": "student53@sust.student.edu",
+  "hashedPassword": "$2b$10$zXQ4s9sUY9ZLxMaWzx8mtOSZKbLT2VY/GsTlasDZqUKhMJq4FcQcu",
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677930709891"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640354318f3e080c1623c804"
+  },
+  "username": "2017331016",
+  "firstName": "Lazu",
+  "lastName": "Islam",
+  "mobileNumber": "01729992308",
+  "email": "student2@sust.student.edu",
+  "hashedPassword": "$2b$10$rWPakan5omXaSl1LPGvn/e3sY25JWAeUcsHaoiBda7fZ46bnmpSw2",
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677939761241"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640354e98f3e080c1623c80b"
+  },
+  "username": "2017331054",
+  "firstName": "Iqramul",
+  "lastName": "Islam",
+  "mobileNumber": "01777678912",
+  "email": "student54@sust.student.edu",
+  "hashedPassword": "$2b$10$D3XdqLd.YFU1zKsj3hFvCejEJ/lIerBd0Csrc2l1EniM9t9EAN7MW",
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677939945057"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6403554c8f3e080c1623c80d"
+  },
+  "username": "Employee01",
+  "firstName": "Romjan",
+  "lastName": "Uddin",
+  "mobileNumber": "01725349867",
+  "email": "employee@student.sust.edu",
+  "hashedPassword": "$2b$10$KZifvsvqjHFeE6MVhyQXC.lxEtwO.aK7wxEN/zp.jc.jv.jsLEdFa",
+  "role": "Employee",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677940044341"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640355f28f3e080c1623c81c"
+  },
+  "username": "2017331088",
+  "firstName": "Roman",
+  "lastName": "Raihan",
+  "mobileNumber": "01777325416",
+  "email": "student88@sust.student.edu",
+  "hashedPassword": "$2b$10$0lJuAosA.sv5ib2ZR8AMGeJ4fX7FKPx05BBwFM3mdJVyanR/gFp9S",
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677940210371"
+    }
+  },
+  "__v": 0
+}]

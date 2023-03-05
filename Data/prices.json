@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6172de30ff528a5839a42308"
+  },
+  "foodPackage": 3000,
+  "electricityBillPerUnit": 0,
+  "securityDeposit": 0,
+  "FirstHall": 4000,
+  "SecondHall": 2500,
+  "ThirdHall": 1500
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "640357898f3e080c1623c832"
+  },
+  "username": "2017331053",
+  "title": "Apply for a seat.",
+  "query": "Assalamu Alaikum sir, I have to need a seat.",
+  "insertedAt": {
+    "$date": {
+      "$numberLong": "1677940617431"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640358ef8f3e080c1623c842"
+  },
+  "username": "2017331054",
+  "title": "Wifi Issue ",
+  "query": "Sir today's internet is very slow please look into the internet problem seriously.",
+  "insertedAt": {
+    "$date": {
+      "$numberLong": "1677940975623"
+    }
+  },
+  "__v": 0
+}]
